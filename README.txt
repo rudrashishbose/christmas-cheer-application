@@ -3,7 +3,7 @@
 ## Christmas Cheer App 🎄✨
 
 **Version**: 1.0  
-**Author**: [Your Name]
+**Author**: [Rudrashish Bose]
 
 ### Overview
 The **Christmas Cheer App** is a festive program designed to spread holiday joy. 🎅  
